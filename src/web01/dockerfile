@@ -6,4 +6,4 @@ EXPOSE 80
 
 # docker build -t lab/web .
 
-# docker run -p 4001:80 nginx:stable-alpine
+# docker run -p 4001:80 lab/web
